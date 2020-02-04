@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 118 32" style="enable-background:new 0 0 118 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#805ABE;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'MuseoSansCyrl-300';}
+	.st3{font-size:14px;}
+	.st4{font-family:'MuseoSansCyrl-900';}
+</style>
+<title>Скидка</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Роза-хутор-Copy" transform="translate(-730.000000, -353.000000)">
+		<g id="Стоимость" transform="translate(590.000000, 352.000000)">
+			<g id="Скидка" transform="translate(140.000000, 0.000000)">
+				<path id="Rectangle-5" class="st0" d="M17.9,1H116c1.1,0,2,0.9,2,2v28c0,1.1-0.9,2-2,2l0,0l-98.1,0c-0.5,0-1-0.2-1.4-0.5
+					l-15.2-14c-0.8-0.7-0.9-2-0.1-2.8c0,0,0.1-0.1,0.1-0.1l15.2-14C17,1.2,17.4,1,17.9,1z"/>
+				<text transform="matrix(1 0 0 1 29 17)" class="st1 st2 st3">Скидка </text>
+				<text transform="matrix(1 0 0 1 79.7777 17)" class="st1 st4 st3">15%</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

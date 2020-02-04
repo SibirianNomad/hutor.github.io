@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="161px" viewBox="0 0 312 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Солнце</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Роза-хутор" transform="translate(-684.000000, -96.000000)" stroke="#FFFFFF" stroke-width="3">
+            <g id="Group">
+                <g id="Солнце" transform="translate(840.355285, 177.324361) rotate(1.000000) translate(-840.355285, -177.324361) translate(686.355285, 98.324361)">
+                    <path d="M16,135 L44.7994224,140.484384" id="Line-3"></path>
+                    <path d="M0,86 L52.656182,109.729892" id="Line-3"></path>
+                    <path d="M58,53 L78.7665384,74.9766651" id="Line-3"></path>
+                    <path d="M98,14 L113.503469,54.7840419" id="Line-3"></path>
+                    <path d="M59.3529412,4.35882353 L94.4961676,64.7845376" id="Line-3"></path>
+                    <path d="M160,19 L158.515667,47.9441878" id="Line-3"></path>
+                    <path d="M139.357143,0.360294118 L143.496845,48.9445274" id="Line-3"></path>
+                    <path d="M213.392227,1 L196,54.4514976" id="Line-3"></path>
+                    <path d="M260.636364,56.3636364 L237,79.8958967" id="Line-3"></path>
+                    <path d="M307.64,65.3584906 L254,102.858464" id="Line-3"></path>
+                    <path d="M303.857603,125 L267,136.766172" id="Line-3"></path>
+                    <path d="M246,152.26778 C226.055072,40.8477492 72,53.4513565 72,158" id="Line-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
