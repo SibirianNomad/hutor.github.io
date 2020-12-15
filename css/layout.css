@@ -88,7 +88,7 @@ li:before{
 }
 
 .header{
-	background-image:url(../thing/headerFone1.jpg);
+	background-image:url(../images/headerFone1.jpg);
 	background-size: cover;
 	background-position:center;
 	width: 2048px;
@@ -123,7 +123,7 @@ li:before{
 /*##########################################*/
 
 .svg_line{
-	background-image: url(../thing/strelka.svg);
+	background-image: url(../images/strelka.svg);
     background-repeat: no-repeat;
     position: absolute;
     width: 60px;
@@ -140,7 +140,7 @@ li:before{
 .header_lable-img{
 	width: 146px;
 	height: 200px;
-	background-image: url(../thing/lable.svg);
+	background-image: url(../images/lable.svg);
 	display: inline-block;
 	vertical-align: top;
 	background-size: cover;
@@ -343,7 +343,7 @@ li:before{
 	.header_ufo{left: 4%;}
 	.header_sun{left: 30%}
 	/*.header{
-		background-image:url(../thing/headerFone1.jpg);
+		background-image:url(../images/headerFone1.jpg);
 		background-size: cover;
 		background-position:center;
 		width: 100%;
@@ -369,7 +369,7 @@ li:before{
 
 @media(max-width:1000px){
 	.header{
-		background-image:url(../thing/headerFone1.jpg);
+		background-image:url(../images/headerFone1.jpg);
 		background-size: cover;
 		background-position:center;
 		width: 100%;
@@ -378,7 +378,7 @@ li:before{
 	.header_ball{display: none;}
 	.header_sun{display: none;}
 }
-@media(max-width:500px){.header{background-image:url(../thing/headerFone3.png);}}
+@media(max-width:500px){.header{background-image:url(../images/headerFone3.png);}}
 @media(max-width: 860px){
 	.b-block {width: calc(100% - 64px);}
 	.header_text{width: 550px;}
@@ -457,7 +457,7 @@ li:before{
 .inform{
 	width: 100%;
 	display: block;
-	background-image:url(../thing/inform-2.png),url(../thing/inform-1.svg);
+	background-image:url(../images/inform-2.png),url(../images/inform-1.svg);
 	background-repeat:no-repeat;
 	background-size: 100% 30%, 70% 100%;;
 	background-position: bottom,center;
@@ -571,7 +571,7 @@ li:before{
 }
 
 .girl{
-	background-image:url(../thing/fone3-1.png);
+	background-image:url(../images/fone3-1.png);
 	background-position:center;
 	background-size:cover;
 	width: 100%;
@@ -600,7 +600,7 @@ li:before{
 
 @media(max-width: 800px){
 	.girl{
-		background-image:url(../thing/fone3-2.png);
+		background-image:url(../images/fone3-2.png);
 	}
 }
 .girl_button{
@@ -620,7 +620,7 @@ li:before{
 }
 
 .cost{
-	background-image: url(../thing/fone4.svg);
+	background-image: url(../images/fone4.svg);
 	background-position: 50% 110px;
 	background-repeat: no-repeat;
 	background-size: 2149px 789px;
@@ -658,7 +658,7 @@ li:before{
 .plane{
 	width: 302px;
 	height: 191px;
-	background-image: url(../thing/plane.png);
+	background-image: url(../images/plane.png);
 	background-size: cover;
 	background-position: center;
 	margin: 0 auto;
@@ -666,13 +666,13 @@ li:before{
 .van{
 	width: 224px;
 	height: 128px;
-	background-image: url(../thing/van.png);
+	background-image: url(../images/van.png);
 	background-size: cover;
 	background-position: center;
 	margin: 0 auto;
 }
 .house{
-	background-image: url(../thing/house.png);
+	background-image: url(../images/house.png);
 	background-size: cover;
 	background-position: center;
 	width: 261px;
@@ -683,7 +683,7 @@ li:before{
 .human{
 	width: 200px;
 	height: 178px;
-	background-image: url(../thing/human.png);
+	background-image: url(../images/human.png);
 	background-size: cover;
 	background-position: center;
 	margin: 0 auto;
@@ -691,7 +691,7 @@ li:before{
 .booth{
 	width: 130px;
 	height: 260px;
-	background-image: url(../thing/booth.png);
+	background-image: url(../images/booth.png);
 	background-size: cover;
 	background-position: center;
 	margin: 0 auto;
@@ -718,7 +718,7 @@ li:before{
 }
 
 .booking{
-	background-image:url(../thing/fone5.png);
+	background-image:url(../images/fone5.png);
 	background-position:center;
 	background-size:cover;
 	width: 100%;
@@ -827,7 +827,7 @@ li:before{
 
 
 .popup{
-	background-image:url(../thing/popupFone.png);
+	background-image:url(../images/popupFone.png);
 	background-position:center;
 	background-size:cover;
 	width: 970px;
@@ -858,7 +858,7 @@ li:before{
 	margin-top: 57px;
 }
 .popup_secondpart{
-	background-image:url(../thing/secondpartFone.png);
+	background-image:url(../images/secondpartFone.png);
 	background-position:center;
 	background-size:cover;
 	display: inline-block;
@@ -1025,6 +1025,7 @@ li:before{
 	padding-bottom: 10px;
 	padding-top: 10px;
 	margin-top: 30px;
+	border: #FFFFFF;
 }
 .popup_secondpart-regform-button:hover{box-shadow: 0px 0px 0px 0px, 0px 0px 0px 20px rgba(255,255,255,0.15);}
 .popup_secondpart-regform-button-text{font-size: 20px;}
@@ -1263,7 +1264,7 @@ label.error {
 }
 
 .popup_entryvalue{
-	background-image: url(../thing/fonepopup3.svg);
+	background-image: url(../images/fonepopup3.svg);
 	background-position: center;
 	background-size: cover;
 	width: 1152px;
@@ -1389,6 +1390,7 @@ label.error {
 	margin: 0;
 	display: inline-block;
 	margin-top: 44px;
+	border: #FFFFFF;
 }
 .popup_tickets-warning{
 	width: 316px;
@@ -1469,7 +1471,7 @@ label.error {
 }
 @media(max-width: 630px){
 	.popup{
-		background-image:url(../thing/popupFone1.png);
+		background-image:url(../images/popupFone1.png);
 	}
 	.popup_title{
 		margin-left: 0;
@@ -1645,7 +1647,7 @@ label.error {
 			margin-bottom: 0;
 		}
 		.girl{
-			background-image:url(../thing/fone3-3.png);
+			background-image:url(../images/fone3-3.png);
 			height: auto;
 			background-position: center;
 			background-size: cover;
